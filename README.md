@@ -100,4 +100,10 @@ element.style {
 ![Yandex popup](https://contact-janet.codio.io/img/box_gh.png "")
 
 ##Заглушка
+
+Для затемнения заднего фона чаще всего используют дополнительный элемент
+спозиционарованный абсолютно или фиксированно. Задают ему фон с альфа-каналом или прозрачность. 
+Реже используют свойство `outline` или `box-shadow`.
+![Yandex popup](https://contact-janet.codio.io/img/background.png "")
+![Yandex popup](https://contact-janet.codio.io/img/background_gh.png "")
  
