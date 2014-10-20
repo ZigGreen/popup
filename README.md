@@ -106,4 +106,9 @@ element.style {
 Реже используют свойство `outline` или `box-shadow`.
 ![Yandex popup](https://contact-janet.codio.io/img/background.png "")
 ![Yandex popup](https://contact-janet.codio.io/img/background_gh.png "")
+
+##P.s. 
+
+Всегда остаётся вариант использовать в простых случиях `alert` и `confirm`   
+Ну и пока ещё совсем сырой `<dialog>`, работающий только в [webKit](http://caniuse.com/#feat=dialog)
  
