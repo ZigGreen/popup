@@ -63,9 +63,9 @@ element.style {
 ```css
 #mk-popup-window {
    background: #FFF;
-   height: 150px; // перекрывается в element.style
-   width: 150px; // перекрывается в element.style
-   margin: -75px 0 0 -75px; // перекрывается в element.style
+   height: 150px; /* перекрывается в element.style */
+   width: 150px; /* перекрывается в element.style */
+   margin: -75px 0 0 -75px; /* перекрывается в element.style */
    z-index: 99;
    position: fixed;
    top: 50%;
@@ -91,8 +91,8 @@ element.style {
 ```css
 .facebox {
    position: absolute;
-   top: 0; // перекрывается в element.style
-   left: 0; // перекрывается в element.style
+   top: 0; /* перекрывается в element.style */
+   left: 0; /* перекрывается в element.style */
    z-index: 100;
    padding-bottom: 40px;
 }
