@@ -8,6 +8,6 @@ popup
 
 
 ##С помошью JS
-[Yandex popup](https://contact-janet.codio.io/img/background.png "")
+![Yandex popup](https://contact-janet.codio.io/img/background.png "")
 ###Примеры
 - 
